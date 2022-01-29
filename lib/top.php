@@ -1,6 +1,4 @@
 <!DOCTYPE.php>
-.php lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="">
@@ -69,6 +67,7 @@
                                             <li><a href="contact.php">Contact</a></li>
                                             <li><a href="elements.php">Elements</a></li>
                                             <li><a href="login.php">Login</a></li>
+                                            <li><a href="join.php">Join</a></li>
                                             <li><a href="#">Dropdown</a>
                                                 <ul class="dropdown">
                                                     <li><a href="#">Even Dropdown</a></li>
@@ -89,7 +88,7 @@
                                         </ul>
                                     </li>
                                     <li><a href="event.php">이벤트</a></li>
-                                    <li><a href="blog.php">뉴스</a></li>
+                                    <li><a href="blog.php">블로그</a></li>
                                     <li><a href="contact.php">컨택트</a></li>
                                 </ul>
 
